@@ -7,7 +7,7 @@ This is a journal website created for a competition. The project contains severa
 
 mait_journal/ <br>
 │ <br>
-├── images/             \t    # Contains images used in the project <br>
+├── images/                 # Contains images used in the project <br>
 ├── style.css               # Main stylesheet for the journal <br>
 ├── loginstyle.css          # Stylesheet specifically for the login page <br>
 ├── index.html              # Main homepage of the journal <br>
