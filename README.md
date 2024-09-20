@@ -1,6 +1,6 @@
 # MAIT Journal
 
-This repository contains the code for a web-based journal developed as part of a college competition. Although it wasn't selected, the website features various sections related to journal publications, submissions, and ethics.
+This repository contains the code for a web-based journal developed as part of a college competition. The website features various sections related to journal publications, submissions, and ethics.
 
 ## Project Structure
 
