@@ -5,27 +5,27 @@ This is a journal website created for a competition. The project contains severa
 ## Folder Structure
 
 
-mait_journal/
-│
-├── images/                 # Contains images used in the project
-├── style.css               # Main stylesheet for the journal
-├── loginstyle.css          # Stylesheet specifically for the login page
-├── index.html              # Main homepage of the journal
-├── aimsandscope.html       # Aims and scope page
-├── archives.html           # Archives of past journals
-├── authorguidelines.html   # Guidelines for authors
-├── boardofreferees.html    # List of referees and their roles
-├── callforpapers.html      # Call for papers submission page
-├── contact.html            # Contact information page
-├── copyright.html          # Copyright details
-├── current.html            # Current journal issue
-├── editorialboard.html     # Editorial board members
-├── login.html              # Login page for users
-├── news.html               # Latest news section
-├── publicationethics.html  # Publication ethics guidelines
-├── reviewprocess.html      # Explanation of the review process
-├── submitpapers.html       # Submission page for new papers
-└── README.md               # This file describing the project
+mait_journal/ <br>
+│ <br>
+├── images/                 # Contains images used in the project <br>
+├── style.css               # Main stylesheet for the journal <br>
+├── loginstyle.css          # Stylesheet specifically for the login page <br>
+├── index.html              # Main homepage of the journal <br>
+├── aimsandscope.html       # Aims and scope page <br>
+├── archives.html           # Archives of past journals <br>
+├── authorguidelines.html   # Guidelines for authors <br>
+├── boardofreferees.html    # List of referees and their roles <br>
+├── callforpapers.html      # Call for papers submission page <br>
+├── contact.html            # Contact information page <br>
+├── copyright.html          # Copyright details <br>
+├── current.html            # Current journal issue <br>
+├── editorialboard.html     # Editorial board members <br>
+├── login.html              # Login page for users <br>
+├── news.html               # Latest news section <br>
+├── publicationethics.html  # Publication ethics guidelines  <br>
+├── reviewprocess.html      # Explanation of the review process  <br>
+├── submitpapers.html       # Submission page for new papers  <br>
+└── README.md               # This file describing the project  <br>
 
 
 ## Description
